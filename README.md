@@ -3,7 +3,8 @@ This project ananlyzes sales data using Microsoft Excel amd Pivot Tables to summ
 ## Tools Used 
 - Microsoft Excel
 - PivotTables
-- Data Source
+  
+## Data Source
 - The Dataset used in this project and was sourced from kaggle for learning and data Analysis practice
 
  ## Key Insights
